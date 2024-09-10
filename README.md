@@ -39,7 +39,7 @@ Getting Started
 
     bash
 
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/piyushxbhardwaj/credit-card-fraud-detection.git
 
 Navigate to the Project Directory:
 
